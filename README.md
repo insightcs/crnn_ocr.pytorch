@@ -2,7 +2,7 @@
 ======================================
 
 This software implements the CRNN and DenseNet-CTC in pytorch.
-Origin repository could be found in [crnn](https://github.com/meijieru/crnn.pytorch) [densenet-ctc](https://github.com/zhiqwang/crnn.pytorch)
+Origin repository could be found in [crnn](https://github.com/meijieru/crnn.pytorch) and [densenet-ctc](https://github.com/zhiqwang/crnn.pytorch)
 
 ## Dependence
 ----------
@@ -21,7 +21,7 @@ Origin repository could be found in [crnn](https://github.com/meijieru/crnn.pyto
 --------
 A demo program can be found in ``eval.py``. Then launch the demo by:
 ```python
-    python eval.py
+python eval.py
 ```
 
 The demo reads images and recognizes its text content.
